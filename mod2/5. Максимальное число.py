@@ -8,7 +8,7 @@ def max_number(numbers):
     try:
         numbers = numbers.split('/')
         numbers = [int(num) for num in numbers]
-        return 'Максимальное число:' + str(max(numbers))
+        return f'Максимальное число: <i>{tr(max(numbers))}</i>'
     except ValueError:
         return 'Ни одно число не было передано.'
 
