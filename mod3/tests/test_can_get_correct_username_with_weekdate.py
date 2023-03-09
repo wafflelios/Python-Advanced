@@ -1,5 +1,4 @@
 import unittest
-from flask import Flask
 from datetime import datetime
 
 from have_a_good_day import app
