@@ -10,10 +10,14 @@ MONTHS = ('январе', 'феврале', 'марте', 'апреле', 'ма�
 @app.route('/add/<date>/<int:number>')
 def save_payment_info(date, number):
     global STORAGE
-    year, month, day = int(date[:4]), int(date[4:6]), int(date[6:9])
-    STORAGE.setdefault(year, {}).setdefault(month, {}).setdefault(day, 0)
-    STORAGE[year][month][day] += number
-    return f'{day}.{month}.{year} вы потратили {STORAGE[year][month][day]} рублей.'
+    try:
+        time.strptime(date, '%Y%m%d')
+        year, month, day = int(date[:4]), int(date[4:6]), int(date[6:9])
+        STORAGE.setdefault(year, {}).setdefault(month, {}).setdefault(day, 0)
+        STORAGE[year][month][day] += number
+        return f'{day}.{month}.{year} вы потратили {STORAGE[year][month][day]} рублей.'
+    except ValueError:
+        return 'Ошибка: неверно введена дата.'
 
 
 @app.route('/calculate/<int:year>')
