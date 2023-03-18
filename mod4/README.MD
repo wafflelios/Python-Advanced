@@ -1,7 +1,7 @@
 # Flask
 ## 4.6 Практическая работа
 
-Задача 1. [Валидаторы. Добавление.](https://github.com/wafflelios/Python-Advanced/blob/main/mod4/validators_addition.py)<br>
+Задача 1. [Валидаторы. Добавление. | validators_addition.py](https://github.com/wafflelios/Python-Advanced/blob/main/mod4/validators_addition.py)<br>
 Задача 2. Валидаторы. Создание.<br>
 Задача 3. Валидаторы. Тестирование.<br>
 Задача 4. Время работы системы.<br>
