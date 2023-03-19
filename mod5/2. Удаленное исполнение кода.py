@@ -20,7 +20,7 @@ def remote_code_usage():
     if in_put.validate_on_submit():
         code = in_put.code.data
         time = in_put.time.data
-        command = shlex.split(f'python3 -c "{code}"')
+        command = shlex.split(f'prlimit --nproc=1:1 python3 -c "{code}"')
         process = subprocess.Popen(command, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
         flag_kill = False
         try:
