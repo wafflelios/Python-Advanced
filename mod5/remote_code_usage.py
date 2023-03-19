@@ -10,7 +10,7 @@ app = Flask(__name__)
 
 class InputForm(FlaskForm):
     code = StringField(validators=[InputRequired()])
-    time = IntegerField(validators=[NumberRange(min=1, max=30)])
+    time = IntegerField(validators=[InputRequired(), NumberRange(min=1, max=30)])
 
 
 @app.route('/run_code', methods=['POST'])
