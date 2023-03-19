@@ -12,7 +12,7 @@ def ps():
     clean_args = [shlex.quote(arg) for arg in args]
     command = shlex.split(f'ps {"".join(clean_args)}')
     res = subprocess.run(command, capture_output=True)
-    return f'<pre>${res.stdout.decode()}</pre>'
+    return f'<pre>{res.stdout.decode()}</pre>'
 
 
 if __name__ == '__main__':
