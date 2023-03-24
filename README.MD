@@ -5,3 +5,4 @@
 3. [Основы культуры CI. Часть 1](https://github.com/wafflelios/Python-Advanced/tree/main/mod3)
 4. [Flask](https://github.com/wafflelios/Python-Advanced/tree/main/mod4)
 5. [Основы работы в Linux 2](https://github.com/wafflelios/Python-Advanced/tree/main/mod5)
+6. [Основы дебаггинга и профилирования. Часть 1](https://github.com/wafflelios/Python-Advanced/tree/main/mod6)
