@@ -8,4 +8,4 @@
 Задача 5. Измерение времени. | _(не нужно решать. нет файла от skillbox.)_<br>
 Задача 6. Список доступных страниц. | [list_of_available_pages.py](https://github.com/wafflelios/Python-Advanced/blob/main/mod6/list_of_available_pages.py)<br>
 Задача 7. Бинарное дерево логов. | _(не нужно решать. нет файла от skillbox.)_<br>
-Задача 8. Т9.<br>
+Задача 8. Т9. | [T9.py](https://github.com/wafflelios/Python-Advanced/blob/main/mod6/T9.py)<br>
