@@ -6,6 +6,6 @@
 Задача 3. JSON-логирование. | [JSON_logging.py](https://github.com/wafflelios/Python-Advanced/blob/main/mod6/JSON_logging.py)<br>
 Задача 4. Анализируем логи. | _(можно было не делать, но я сделала)_ [analyze_logs.py](https://github.com/wafflelios/Python-Advanced/blob/main/mod6/analyze_logs.py) & [skillbox_json_messages.log](https://github.com/wafflelios/Python-Advanced/blob/main/mod6/skillbox_json_messages.log)<br>
 Задача 5. Измерение времени. | _(не нужно решать)_<br>
-Задача 6. Список доступных страниц.<br>
+Задача 6. Список доступных страниц. | [list_of_available_pages.py](https://github.com/wafflelios/Python-Advanced/blob/main/mod6/list_of_available_pages.py)<br>
 Задача 7. Бинарное дерево логов.<br>
 Задача 8. Т9.<br>
