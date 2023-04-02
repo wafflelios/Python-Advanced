@@ -1,9 +1,9 @@
 # Logger
 ## 7.6 Практическая работа
 
-Задача 1. [Добавляем логирование](https://github.com/wafflelios/Python-Advanced/tree/main/mod7/add_logging).<br>
-Задача 2. [ООП-конфигурация](https://github.com/wafflelios/Python-Advanced/tree/main/mod7/oop_configuration).<br>
-Задача 3. Многоуровневый обработчик.<br>
+Задача 1. Добавляем логирование. | [add_logging](https://github.com/wafflelios/Python-Advanced/tree/main/mod7/add_logging)<br>
+Задача 2. ООП-конфигурация. | [oop_configuration](https://github.com/wafflelios/Python-Advanced/tree/main/mod7/oop_configuration)<br>
+Задача 3. Многоуровневый обработчик. | [layered_handler](https://github.com/wafflelios/Python-Advanced/tree/main/mod7/layered_handler)<br>
 Задача 4. dict-конфигурация.<br>
 Задача 5. Ротация логов. <br>
 Задача 6. Дерево логгеров. <br>
