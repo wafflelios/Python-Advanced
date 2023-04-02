@@ -2,7 +2,7 @@
 ## 7.6 Практическая работа
 
 Задача 1. [Добавляем логирование](https://github.com/wafflelios/Python-Advanced/tree/main/mod7/add_logging).<br>
-Задача 2. ООП-конфигурация.<br>
+Задача 2. [ООП-конфигурация](https://github.com/wafflelios/Python-Advanced/tree/main/mod7/oop_configuration).<br>
 Задача 3. Многоуровневый обработчик.<br>
 Задача 4. dict-конфигурация.<br>
 Задача 5. Ротация логов. <br>
