@@ -1,0 +1,27 @@
+<--""
+   Level WARNING
+   |
+   o<--"app_logger"
+   |   Level DEBUG
+   |   Filter <ASCII_only.ASCIIFilter object at 0x7fdc2ca63070>
+   |   Filter <ASCII_only.ASCIIFilter object at 0x7fdc2ca626b0>
+   |   Handler Stream <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+   |     Level DEBUG
+   |     Formatter fmt='%(levelname)s | %(name)s | %(asctime)s | %(lineno)d | %(message)s' datefmt=None
+   |   Handler <LayeredHandler (DEBUG)>
+   |     Level DEBUG
+   |     Formatter fmt='%(levelname)s | %(name)s | %(asctime)s | %(lineno)d | %(message)s' datefmt=None
+   |
+   o<--"utils_logger"
+       Level DEBUG
+       Filter <ASCII_only.ASCIIFilter object at 0x7fdc2ca63070>
+       Filter <ASCII_only.ASCIIFilter object at 0x7fdc2ca626b0>
+       Handler Stream <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+         Level DEBUG
+         Formatter fmt='%(levelname)s | %(name)s | %(asctime)s | %(lineno)d | %(message)s' datefmt=None
+       Handler <LayeredHandler (DEBUG)>
+         Level DEBUG
+         Formatter fmt='%(levelname)s | %(name)s | %(asctime)s | %(lineno)d | %(message)s' datefmt=None
+       Handler TimedRotatingFile '/home/wafflelios/Desktop/python/mod7/logs/utils.log' when='H' interval=36000 backupCount=5
+         Level INFO
+         Formatter fmt='%(levelname)s | %(name)s | %(asctime)s | %(lineno)d | %(message)s' datefmt=None
