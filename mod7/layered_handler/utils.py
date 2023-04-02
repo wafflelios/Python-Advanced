@@ -1,11 +1,5 @@
-#import logging.config
 import logging
 from custom_level_handler import LayeredHandler
-#from logging_config import dict_config
-
-# logging.config.dictConfig(dict_config)
-# utils_logger = logging.getLogger('utils_logger')
-
 
 utils_logger = logging.getLogger('calculator')
 level_handler = LayeredHandler()
