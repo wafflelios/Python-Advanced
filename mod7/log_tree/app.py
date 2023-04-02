@@ -1,7 +1,5 @@
 import logging_tree.format
-
 from utils import calculator
-from logging_tree import printout
 import logging.config
 from logging_config import dict_config
 import logging
