@@ -1,0 +1,9 @@
+INFO | app_logger | 2023-04-02 12:31:01,646 | 19 | The program has started.
+INFO | calculator | 12:31:57 | 19 | Calculator started working.
+INFO | calculator | 12:31:57 | 47 | Calculator finished work.
+INFO | app_logger | 2023-04-02 12:31:57,669 | 24 | App finished work.
+INFO | app_logger | 2023-04-02 12:32:30,719 | 19 | The program has started.
+INFO | calculator | 12:32:33 | 19 | Calculator started working.
+INFO | calculator | 12:32:33 | 24 | Summation completed successfully.
+INFO | calculator | 12:32:33 | 47 | Calculator finished work.
+INFO | app_logger | 2023-04-02 12:32:33,839 | 24 | App finished work.
