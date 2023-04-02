@@ -1,0 +1,66 @@
+INFO | app_logger | 2023-04-02 12:39:32,587 | 19 | The program has started.
+INFO | calculator | 2023-04-02 12:39:37,091 | 18 | Calculator started working.
+INFO | calculator | 2023-04-02 12:39:37,095 | 23 | Summation completed successfully.
+INFO | calculator | 2023-04-02 12:39:37,097 | 46 | Calculator finished work.
+INFO | app_logger | 2023-04-02 12:39:37,098 | 24 | App finished work.
+INFO | app_logger | 2023-04-02 12:39:43,332 | 19 | The program has started.
+INFO | calculator | 2023-04-02 12:39:46,323 | 18 | Calculator started working.
+INFO | calculator | 2023-04-02 12:39:46,327 | 46 | Calculator finished work.
+INFO | app_logger | 2023-04-02 12:39:46,328 | 24 | App finished work.
+INFO | app_logger | 2023-04-02 12:39:50,878 | 19 | The program has started.
+INFO | calculator | 2023-04-02 12:39:53,915 | 18 | Calculator started working.
+INFO | calculator | 2023-04-02 12:39:53,917 | 29 | Multiplication completed successfully.
+INFO | calculator | 2023-04-02 12:39:53,918 | 46 | Calculator finished work.
+INFO | app_logger | 2023-04-02 12:39:53,919 | 24 | App finished work.
+INFO | app_logger | 2023-04-02 12:47:32,708 | 17 | The program has started.
+INFO | utils_logger | 2023-04-02 12:47:36,260 | 18 | Calculator started working.
+INFO | utils_logger | 2023-04-02 12:47:36,263 | 23 | Summation completed successfully.
+INFO | utils_logger | 2023-04-02 12:47:36,266 | 46 | Calculator finished work.
+INFO | app_logger | 2023-04-02 12:47:36,268 | 22 | App finished work.
+INFO | app_logger | 2023-04-02 12:47:42,696 | 17 | The program has started.
+INFO | utils_logger | 2023-04-02 12:47:45,379 | 18 | Calculator started working.
+INFO | utils_logger | 2023-04-02 12:47:45,380 | 46 | Calculator finished work.
+INFO | app_logger | 2023-04-02 12:47:45,381 | 22 | App finished work.
+INFO | app_logger | 2023-04-02 12:47:50,736 | 17 | The program has started.
+INFO | utils_logger | 2023-04-02 12:47:53,456 | 18 | Calculator started working.
+INFO | utils_logger | 2023-04-02 12:47:53,458 | 41 | Raising a number to a power completed successfully.
+INFO | utils_logger | 2023-04-02 12:47:53,458 | 46 | Calculator finished work.
+INFO | app_logger | 2023-04-02 12:47:53,459 | 22 | App finished work.
+INFO | app_logger | 2023-04-02 13:03:01,854 | 17 | The program has started.
+INFO | utils_logger | 2023-04-02 13:03:04,811 | 18 | Calculator started working.
+INFO | utils_logger | 2023-04-02 13:03:04,813 | 23 | Summation completed successfully.
+INFO | utils_logger | 2023-04-02 13:03:04,814 | 46 | Calculator finished work.
+INFO | app_logger | 2023-04-02 13:03:04,816 | 22 | App finished work.
+INFO | app_logger | 2023-04-02 13:05:27,055 | 17 | The program has started.
+INFO | utils_logger | 2023-04-02 13:05:30,457 | 18 | Calculator started working.
+INFO | utils_logger | 2023-04-02 13:05:30,466 | 23 | Summation completed successfully.
+INFO | utils_logger | 2023-04-02 13:05:30,467 | 46 | Calculator finished work.
+INFO | app_logger | 2023-04-02 13:05:30,468 | 22 | App finished work.
+INFO | app_logger | 2023-04-02 13:19:17,912 | 9 | The program has started.
+INFO | utils_logger | 2023-04-02 13:19:20,922 | 10 | Calculator started working.
+INFO | utils_logger | 2023-04-02 13:19:20,929 | 15 | Summation completed successfully.
+INFO | utils_logger | 2023-04-02 13:19:20,931 | 38 | Calculator finished work.
+INFO | app_logger | 2023-04-02 13:19:20,933 | 14 | App finished work.
+INFO | app_logger | 2023-04-02 13:21:02,354 | 9 | The program has started.
+INFO | utils_logger | 2023-04-02 13:21:05,597 | 10 | Calculator started working.
+INFO | utils_logger | 2023-04-02 13:21:05,608 | 21 | Multiplication completed successfully.
+INFO | utils_logger | 2023-04-02 13:21:05,610 | 38 | Calculator finished work.
+INFO | app_logger | 2023-04-02 13:21:05,612 | 14 | App finished work.
+INFO | app_logger | 2023-04-02 13:21:21,136 | 9 | The program has started.
+INFO | utils_logger | 2023-04-02 13:21:24,646 | 10 | Calculator started working.
+INFO | utils_logger | 2023-04-02 13:21:24,649 | 38 | Calculator finished work.
+INFO | app_logger | 2023-04-02 13:21:24,649 | 14 | App finished work.
+INFO | app_logger | 2023-04-02 13:21:34,268 | 9 | The program has started.
+INFO | utils_logger | 2023-04-02 13:21:39,051 | 10 | Calculator started working.
+INFO | utils_logger | 2023-04-02 13:21:39,060 | 21 | Multiplication completed successfully.
+INFO | utils_logger | 2023-04-02 13:21:39,061 | 38 | Calculator finished work.
+INFO | app_logger | 2023-04-02 13:21:39,061 | 14 | App finished work.
+INFO | app_logger | 2023-04-02 13:23:35,547 | 9 | The program has started.
+INFO | utils_logger | 2023-04-02 13:23:38,476 | 10 | Calculator started working.
+INFO | utils_logger | 2023-04-02 13:23:38,484 | 21 | Multiplication completed successfully.
+INFO | utils_logger | 2023-04-02 13:23:38,485 | 38 | Calculator finished work.
+INFO | app_logger | 2023-04-02 13:23:38,489 | 14 | App finished work.
+INFO | app_logger | 2023-04-02 13:24:14,667 | 9 | The program has started.
+INFO | utils_logger | 2023-04-02 13:24:19,606 | 10 | Calculator started working.
+INFO | utils_logger | 2023-04-02 13:24:19,610 | 38 | Calculator finished work.
+INFO | app_logger | 2023-04-02 13:24:19,612 | 14 | App finished work.

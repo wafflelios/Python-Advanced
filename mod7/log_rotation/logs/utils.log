@@ -1,0 +1,6 @@
+INFO | utils_logger | 2023-04-02 13:23:38,476 | 10 | Calculator started working.
+INFO | utils_logger | 2023-04-02 13:23:38,484 | 21 | Multiplication completed successfully.
+INFO | utils_logger | 2023-04-02 13:23:38,485 | 38 | Calculator finished work.
+INFO | utils_logger | 2023-04-02 13:24:19,606 | 10 | Calculator started working.
+ERROR | utils_logger | 2023-04-02 13:24:19,607 | 35 | Error: you can't divide by zero!
+INFO | utils_logger | 2023-04-02 13:24:19,610 | 38 | Calculator finished work.
