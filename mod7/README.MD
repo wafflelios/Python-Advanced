@@ -6,7 +6,7 @@
 Задача 3. Многоуровневый обработчик. | [layered_handler](https://github.com/wafflelios/Python-Advanced/tree/main/mod7/layered_handler)<br>
 Задача 4. dict-конфигурация. | [dict_configuration](https://github.com/wafflelios/Python-Advanced/tree/main/mod7/dict_configuration)<br>
 Задача 5. Ротация логов. | [log_rotation](https://github.com/wafflelios/Python-Advanced/tree/main/mod7/log_rotation)<br>
-Задача 6. Дерево логгеров. <br>
+Задача 6. Дерево логгеров. | [log_tree](https://github.com/wafflelios/Python-Advanced/tree/main/mod7/log_tree)<br>
 Задача 7. Только ASCII.<br>
 Задача 8. Сборщик логов.<br>
 Задача 9. ini-конфигурация. | _(не нужно решать)_
