@@ -65,9 +65,6 @@ INFO | utils_logger | 2023-04-02 13:24:19,606 | 10 | Calculator started working.
 INFO | utils_logger | 2023-04-02 13:24:19,610 | 38 | Calculator finished work.
 INFO | app_logger | 2023-04-02 13:24:19,612 | 14 | App finished work.
 INFO | app_logger | 2023-04-02 13:35:57,065 | 9 | The program has started.
-INFO | app_logger.utils_logger | 2023-04-02 13:36:03,399 | 10 | Calculator started working.
-INFO | app_logger.utils_logger | 2023-04-02 13:36:03,400 | 33 | Raising a number to a power completed successfully.
-INFO | app_logger.utils_logger | 2023-04-02 13:36:03,401 | 38 | Calculator finished work.
 INFO | app_logger | 2023-04-02 13:36:03,404 | 14 | App finished work.
 INFO | app_logger | 2023-04-02 13:36:41,326 | 9 | The program has started.
 INFO | utils_logger | 2023-04-02 13:36:43,922 | 10 | Calculator started working.
