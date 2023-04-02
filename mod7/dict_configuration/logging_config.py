@@ -1,4 +1,5 @@
 from custom_level_handler import LayeredHandler
+import sys
 
 dict_config = {
     'version': 1,
@@ -13,7 +14,7 @@ dict_config = {
             'class': 'logging.StreamHandler',
             'level': 'DEBUG',
             'formatter': 'base',
-            'stream': 'ext://sys.stdout'
+            'stream': sys.stdout
         },
         'file': {
             '()': LayeredHandler,
