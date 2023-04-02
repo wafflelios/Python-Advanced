@@ -3,8 +3,7 @@ from custom_level_handler import LayeredHandler
 
 utils_logger = logging.getLogger('calculator')
 level_handler = LayeredHandler()
-formatter = logging.Formatter(fmt='%(levelname)s | %(name)s | %(asctime)s | %(lineno)d | %(message)s',
-                              datefmt='%H:%M:%S')
+formatter = logging.Formatter(fmt='%(levelname)s | %(name)s | %(asctime)s | %(lineno)d | %(message)s')
 level_handler.setFormatter(formatter)
 utils_logger.addHandler(level_handler)
 
