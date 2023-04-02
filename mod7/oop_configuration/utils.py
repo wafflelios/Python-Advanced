@@ -1,17 +1,6 @@
-import logging.config
-from custom_level_handler import LayeredHandler
-from logging_config import dict_config
-
-# logging.config.dictConfig(dict_config)
-# utils_logger = logging.getLogger('utils_logger')
-
+import logging
 
 utils_logger = logging.getLogger('calculator')
-#level_handler = LayeredHandler()
-formatter = logging.Formatter(fmt='%(levelname)s | %(name)s | %(asctime)s | %(lineno)d | %(message)s',
-                              datefmt='%H:%M:%S')
-#level_handler.setFormatter(formatter)
-#utils_logger.addHandler(level_handler)
 
 
 def calculator(num_1, num_2, operation):
