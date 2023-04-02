@@ -1,12 +1,7 @@
 from utils import calculator
 import sys
 from custom_level_handler import LayeredHandler
-#import logging.config
-#from logging_config import dict_config
 import logging
-
-#logging.config.dictConfig(dict_config)
-#app_logger = logging.getLogger('app_logger')
 
 form = '%(levelname)s | %(name)s | %(asctime)s | %(lineno)d | %(message)s'
 formatter = logging.Formatter(fmt=form)
