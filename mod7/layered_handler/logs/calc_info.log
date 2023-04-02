@@ -1,0 +1,14 @@
+INFO | app_logger | 2023-04-02 12:39:32,587 | 19 | The program has started.
+INFO | calculator | 2023-04-02 12:39:37,091 | 18 | Calculator started working.
+INFO | calculator | 2023-04-02 12:39:37,095 | 23 | Summation completed successfully.
+INFO | calculator | 2023-04-02 12:39:37,097 | 46 | Calculator finished work.
+INFO | app_logger | 2023-04-02 12:39:37,098 | 24 | App finished work.
+INFO | app_logger | 2023-04-02 12:39:43,332 | 19 | The program has started.
+INFO | calculator | 2023-04-02 12:39:46,323 | 18 | Calculator started working.
+INFO | calculator | 2023-04-02 12:39:46,327 | 46 | Calculator finished work.
+INFO | app_logger | 2023-04-02 12:39:46,328 | 24 | App finished work.
+INFO | app_logger | 2023-04-02 12:39:50,878 | 19 | The program has started.
+INFO | calculator | 2023-04-02 12:39:53,915 | 18 | Calculator started working.
+INFO | calculator | 2023-04-02 12:39:53,917 | 29 | Multiplication completed successfully.
+INFO | calculator | 2023-04-02 12:39:53,918 | 46 | Calculator finished work.
+INFO | app_logger | 2023-04-02 12:39:53,919 | 24 | App finished work.
