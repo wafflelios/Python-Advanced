@@ -1,0 +1,6 @@
+ERROR | calculator | 2023-04-02 12:39:46,325 | 43 | Error: you can't divide by zero!
+ERROR | utils_logger | 2023-04-02 12:47:45,380 | 43 | Error: you can't divide by zero!
+ERROR | utils_logger | 2023-04-02 13:21:24,648 | 35 | Error: you can't divide by zero!
+ERROR | utils_logger | 2023-04-02 13:24:19,607 | 35 | Error: you can't divide by zero!
+ERROR | utils_logger | 2023-04-04 17:04:58,267 | 41 | Error: unexpected operation.
+ERROR | utils_logger | 2023-04-04 17:09:51,367 | 39 | Error: you can't divide by zero!

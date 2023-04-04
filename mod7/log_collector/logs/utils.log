@@ -1,0 +1,28 @@
+INFO | utils_logger | 2023-04-04 17:03:36,180 | 10 | Calculator started working.
+INFO | utils_logger | 2023-04-04 17:03:36,189 | 12 | ASCII test true: test
+INFO | utils_logger | 2023-04-04 17:03:36,195 | 19 | Summation completed successfully.
+INFO | utils_logger | 2023-04-04 17:03:36,199 | 42 | Calculator finished work.
+INFO | utils_logger | 2023-04-04 17:04:58,252 | 10 | Calculator started working.
+INFO | utils_logger | 2023-04-04 17:04:58,260 | 12 | ASCII test true: test
+ERROR | utils_logger | 2023-04-04 17:04:58,267 | 41 | Error: unexpected operation.
+INFO | utils_logger | 2023-04-04 17:04:58,271 | 42 | Calculator finished work.
+INFO | utils_logger | 2023-04-04 17:05:30,761 | 10 | Calculator started working.
+INFO | utils_logger | 2023-04-04 17:05:30,770 | 12 | ASCII test true: test
+INFO | utils_logger | 2023-04-04 17:05:30,782 | 19 | Summation completed successfully.
+INFO | utils_logger | 2023-04-04 17:05:30,789 | 42 | Calculator finished work.
+INFO | utils_logger | 2023-04-04 17:06:41,062 | 10 | Calculator started working.
+INFO | utils_logger | 2023-04-04 17:06:41,070 | 12 | ASCII test true: test
+INFO | utils_logger | 2023-04-04 17:06:41,078 | 19 | Summation completed successfully.
+INFO | utils_logger | 2023-04-04 17:06:41,084 | 42 | Calculator finished work.
+INFO | utils_logger | 2023-04-04 17:07:52,981 | 10 | Calculator started working.
+INFO | utils_logger | 2023-04-04 17:07:52,996 | 12 | ASCII test true: test
+INFO | utils_logger | 2023-04-04 17:07:53,009 | 19 | Summation completed successfully.
+INFO | utils_logger | 2023-04-04 17:07:53,017 | 42 | Calculator finished work.
+INFO | utils_logger | 2023-04-04 17:09:51,337 | 10 | Calculator started working.
+INFO | utils_logger | 2023-04-04 17:09:51,355 | 12 | ASCII test true: test
+ERROR | utils_logger | 2023-04-04 17:09:51,367 | 39 | Error: you can't divide by zero!
+INFO | utils_logger | 2023-04-04 17:09:51,378 | 42 | Calculator finished work.
+INFO | utils_logger | 2023-04-04 17:14:22,123 | 10 | Calculator started working.
+INFO | utils_logger | 2023-04-04 17:14:22,141 | 12 | ASCII test true: test
+INFO | utils_logger | 2023-04-04 17:14:22,156 | 19 | Summation completed successfully.
+INFO | utils_logger | 2023-04-04 17:14:22,167 | 42 | Calculator finished work.
