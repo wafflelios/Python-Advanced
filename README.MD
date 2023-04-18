@@ -8,3 +8,4 @@
 6. [Основы дебаггинга и профилирования. Часть 1](https://github.com/wafflelios/Python-Advanced/tree/main/mod6)
 7. [Logger](https://github.com/wafflelios/Python-Advanced/tree/main/mod7)
 8. [Деплой приложений на linux](https://github.com/wafflelios/Python-Advanced/tree/main/mod8)
+9. [Docker](https://github.com/wafflelios/Python-Advanced/tree/main/mod9)
