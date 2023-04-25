@@ -6,4 +6,4 @@ _Все тесты находятся в папке tests._<br>
 Задача 2. Дешифратор ([decrypt.py](https://github.com/wafflelios/Python-Advanced/blob/main/mod3/decrypt.py) & [test_decrypt.py](https://github.com/wafflelios/Python-Advanced/blob/main/mod3/tests/test_decrypt.py))<br>
 Задача 3. Учет финансов ([financial_accounting.py](https://github.com/wafflelios/Python-Advanced/blob/main/mod3/financial_accounting.py) & [test_financial_accounting.py](https://github.com/wafflelios/Python-Advanced/blob/main/mod3/tests/test_financial_accounting.py))<br>
 Задача 4. Доверяй, но проверяй ([trust_but_check.py](https://github.com/wafflelios/Python-Advanced/blob/main/mod3/trust_but_check.py) & [test_trust_but_check.py](https://github.com/wafflelios/Python-Advanced/blob/main/mod3/tests/test_trust_but_check.py)) + [ERRORS.MD](https://github.com/wafflelios/Python-Advanced/blob/main/mod3/ERRORS.MD)<br>
-Задача 5. Система сборки (WIP)
+Задача 5. Система сборки (_можно не делать_)
