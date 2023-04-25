@@ -6,4 +6,4 @@ _Все тесты находятся в папке tests._<br>
 Задача 2. Удаленное использование кода. | [remote_code_usage.py](https://github.com/wafflelios/Python-Advanced/blob/main/mod5/2_remote_code_usage.py) & [test_remote_code_usage.py](https://github.com/wafflelios/Python-Advanced/blob/main/mod5/tests/test_remote_code_usage.py)<br>
 Задача 3. Заглушка исключений. | [exception_stub.py](https://github.com/wafflelios/Python-Advanced/blob/main/mod5/exception_stub.py) & [test_exception_stub.py](https://github.com/wafflelios/Python-Advanced/blob/main/mod5/tests/test_exception_stub.py)<br>
 Задача 4. Перенаправление вывода. | [output_redirection.py](https://github.com/wafflelios/Python-Advanced/blob/main/mod5/output_redirection.py) & [test_output_redirection.py](https://github.com/wafflelios/Python-Advanced/blob/main/mod5/tests/test_output_redirection.py)<br>
-Задача 5. Самопечать. (WIP)
+Задача 5. Самопечать. (_можно не делать_)
