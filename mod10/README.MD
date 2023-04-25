@@ -5,4 +5,4 @@
 Задача 2. Исследование продаж телефонов. | [phone_sales_research](https://github.com/wafflelios/Python-Advanced/tree/main/mod10/phone_sales_research)<br>
 Задача 3. Анализ таблиц. | [table_analysis](https://github.com/wafflelios/Python-Advanced/tree/main/mod10/table_analysis)<br>
 Задача 4. Исследование доходов населения. | [population_income_survey](https://github.com/wafflelios/Python-Advanced/tree/main/mod10/population_income_survey)<br>
-Задача 5. Быстрая вставка.
+Задача 5. Быстрая вставка. | [quick_insert.py](https://github.com/wafflelios/Python-Advanced/blob/main/mod10/quick_insert.py)
