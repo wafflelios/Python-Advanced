@@ -12,7 +12,7 @@
 10. [Базы данных. Часть 1](https://github.com/wafflelios/Python-Advanced/tree/main/mod10)
 11. Мультипоточность. Часть 1
 12. Мультипоточность. Часть 2
-13. Базы данных. Часть 2
+13. [Базы данных. Часть 2](https://github.com/wafflelios/Python-Advanced/tree/main/mod13)
 14. MVC, язык шаблонов
 15. Основы сетевого взаимодействия
 16. Базы данных. Часть 3
