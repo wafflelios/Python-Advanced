@@ -15,7 +15,7 @@
 13. [Базы данных. Часть 2](https://github.com/wafflelios/Python-Advanced/tree/main/mod13)
 14. MVC, язык шаблонов
 15. Основы сетевого взаимодействия
-16. Базы данных. Часть 3
+16. [Базы данных. Часть 3](https://github.com/wafflelios/Python-Advanced/tree/main/mod16)
 17. REST API
 18. Документирование. Стандарты API
 19. Базы данных. Часть 4
