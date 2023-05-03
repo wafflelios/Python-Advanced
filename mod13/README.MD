@@ -7,4 +7,4 @@
 Задача 4. Эффективный менеджер. | [effective_manager.py](https://github.com/wafflelios/Python-Advanced/blob/main/mod13/effective_manager.py)<br>
 Задача 5. Жеребьёвка УЕФА. | [UEFA_draw.py](https://github.com/wafflelios/Python-Advanced/blob/main/mod13/UEFA_draw.py)<br>
 Задача 6. Завод "Дружба". | [plant_friendship.py](https://github.com/wafflelios/Python-Advanced/blob/main/mod13/plant_friendship.py)<br>
-Задача 7. Делаем инъекцию. |
+Задача 7. Делаем инъекцию. | [make_an_injection.py](https://github.com/wafflelios/Python-Advanced/blob/main/mod13/make_an_injection.py)
