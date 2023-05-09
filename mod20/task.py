@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
-from flask import Flask, jsonify, abort, request
-from sqlalchemy import create_engine, Column, Integer, String, Date, Float, Boolean, DateTime
+from flask import Flask, jsonify, request
+from sqlalchemy import create_engine, Column, Integer, String, Float, Boolean, DateTime
 from sqlalchemy.orm import sessionmaker, declarative_base
 from sqlalchemy.ext.hybrid import hybrid_property
 from datetime import datetime, date
