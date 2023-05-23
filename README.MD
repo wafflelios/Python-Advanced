@@ -10,7 +10,7 @@
 8. [Деплой приложений на linux](https://github.com/wafflelios/Python-Advanced/tree/main/mod8)
 9. [Docker](https://github.com/wafflelios/Python-Advanced/tree/main/mod9)
 10. [Базы данных. Часть 1](https://github.com/wafflelios/Python-Advanced/tree/main/mod10)
-11. Мультипоточность. Часть 1
+11. [Мультипоточность. Часть 1](https://github.com/wafflelios/Python-Advanced/tree/main/mod11)
 12. Мультипоточность. Часть 2
 13. [Базы данных. Часть 2](https://github.com/wafflelios/Python-Advanced/tree/main/mod13)
 14. MVC, язык шаблонов
