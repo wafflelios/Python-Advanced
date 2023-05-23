@@ -10,7 +10,7 @@ sql_add_character_from_dict = """
 """
 
 
-def get_star_wars_character(url, i):
+def get_star_wars_character(url: str, i: int):
     global characters
     response = requests.get(url+str(i))
     if response.status_code == 200:
@@ -33,7 +33,7 @@ def load_characters_with_threads():
         thread.join()
 
     cursor.executemany(sql_add_character_from_dict, characters)
-    print("Done in {:4}".format(time.time() - start))
+    print("WITH THREADS: Done in {} seconds".format(round(time.time() - start, 4)), end='\n\n')
 
 
 def load_characters():
@@ -42,7 +42,7 @@ def load_characters():
     for i in range(1, 22):
         get_star_wars_character(URL, i)
     cursor.executemany(sql_add_character_from_dict, characters)
-    print("Done in {:4}".format(time.time() - start))
+    print("WITHOUT THREADS: Done in {} seconds".format(round(time.time() - start, 4)), end='\n\n')
 
 
 if __name__ == "__main__":
@@ -50,3 +50,5 @@ if __name__ == "__main__":
         cursor = conn.cursor()
         cursor.execute("DELETE FROM star_wars_characters")
         load_characters_with_threads()
+        cursor.execute("DELETE FROM star_wars_characters")
+        load_characters()
