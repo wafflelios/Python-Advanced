@@ -21,7 +21,7 @@
 19. [Базы данных. Часть 4](https://github.com/wafflelios/Python-Advanced/tree/main/mod19)
 20. [ORM SQLAIchemy](https://github.com/wafflelios/Python-Advanced/tree/main/mod20)
 21. [ORM SQLAIchemy. Часть 2](https://github.com/wafflelios/Python-Advanced/tree/main/mod21)
-22. CGI server
+22. [CGI server](https://github.com/wafflelios/Python-Advanced/tree/main/mod22)
 23. Основы дебаггинга и профилирования. Часть 2
 24. Основы дебаггинга и профилирования. Часть 3
 25. Многозадачность: asyncio
